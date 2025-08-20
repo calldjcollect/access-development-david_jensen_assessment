@@ -1,4 +1,4 @@
-# Product Inventory Tracker
+# Product Inventory Tracker - Candidate: David Jensen
 
 ## Task: Implement Filtering Methods in the Service Layer
 
@@ -140,3 +140,4 @@ This workflow and the associated tasks are designed to assess your technical ski
 - **Code quality improvement** - Recognizing and enhancing any suboptimal code you encounter
 
 Please complete each part of the task as described while maintaining clean and readable code throughout your implementation.
+
